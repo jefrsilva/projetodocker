@@ -1,0 +1,5 @@
+br/com/caelum/projetodocker/Boot.class
+br/com/caelum/projetodocker/util/JPAUtil.class
+br/com/caelum/projetodocker/mb/ProdutoBean.class
+br/com/caelum/projetodocker/dao/ProdutoDao.class
+br/com/caelum/projetodocker/modelo/Produto.class
